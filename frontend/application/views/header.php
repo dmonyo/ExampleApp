@@ -2,8 +2,7 @@
 <html lang="es">
 
 <head>
-    <title>Cineworld - Back Office</title>
-    <link rel="shortcut icon" href="http://anexsoft.com/assets/frontend/images/favicon.ico" />
+    <title>Person Registration</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
     <meta charset="utf-8" />
 

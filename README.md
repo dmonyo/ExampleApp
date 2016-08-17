@@ -15,3 +15,10 @@ FrontEnd
  - Correct api url in frontend application/libraries/Restapi.php
 
 
+to test the app log in with the following credentials:
+
+  email: demo@demo.com
+  password: 123456
+
+
+

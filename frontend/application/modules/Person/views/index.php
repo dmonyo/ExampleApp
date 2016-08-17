@@ -4,7 +4,7 @@
 </h1>
 
 <ol class="breadcrumb">
-  <li class="active">Empleados</li>
+  <li class="active">People</li>
 </ol>
 <div class="table-responsive">
     <table class="table table-striped table-bordered">

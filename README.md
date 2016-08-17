@@ -11,9 +11,10 @@ API:
  - Create a database and import file "example_slim.sql" inside api/database
  - Correct connection to the new database in api/src/settings.php
 
+
 Front End Application built with Codeigniter3. For installation follow the steps below
 
-FrontEnd
+FrontEnd:
  - Copy "frontend" folder in your web server folder
  - Correct api url in frontend application/libraries/Restapi.php
 

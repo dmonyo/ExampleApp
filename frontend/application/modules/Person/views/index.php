@@ -36,7 +36,7 @@
                     <a class="btn btn-xs btn-success" href="<?php echo site_url('Person/crud/' . $m->id); ?>">
                         Edit
                     </a>                
-                    <a class="btn btn-xs btn-danger" href="<?php echo site_url('Person/delete/' . $m->id); ?>" onclick="return confirm('¿Are you sure you want to delete this user?');">
+                    <a class="btn btn-xs btn-danger" href="<?php echo site_url('Person/delete/' . $m->id); ?>" onclick="return confirm('¿Are you sure you want to delete this person?');">
                         Delete
                     </a>
                     

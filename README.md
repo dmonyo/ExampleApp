@@ -16,7 +16,7 @@ Front End Application built with Codeigniter3. For installation follow the steps
 
 FrontEnd:
  - Copy "frontend" folder in your web server folder
- - Correct api url in frontend application/libraries/Restapi.php
+ - Correct api url in frontend/application/libraries/Restapi.php
 
 
 to test the app log in with the following credentials:
